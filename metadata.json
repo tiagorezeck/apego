@@ -1,0 +1,6 @@
+{
+  "name": "Inventário de Apego e Origem Comportamental",
+  "description": "Avaliação psicométrica avançada de 36 itens para diagnóstico dos estilos de apego e origens na infância com relatório clínico detalhado e gráficos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
